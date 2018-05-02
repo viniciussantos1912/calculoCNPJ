@@ -1,0 +1,10 @@
+C:\Users\user_acronus\calculocnpj\bin\Debug\netcoreapp2.0\calculocnpj.deps.json
+C:\Users\user_acronus\calculocnpj\bin\Debug\netcoreapp2.0\calculocnpj.runtimeconfig.json
+C:\Users\user_acronus\calculocnpj\bin\Debug\netcoreapp2.0\calculocnpj.runtimeconfig.dev.json
+C:\Users\user_acronus\calculocnpj\bin\Debug\netcoreapp2.0\calculocnpj.dll
+C:\Users\user_acronus\calculocnpj\bin\Debug\netcoreapp2.0\calculocnpj.pdb
+C:\Users\user_acronus\calculocnpj\obj\Debug\netcoreapp2.0\calculocnpj.csproj.CoreCompileInputs.cache
+C:\Users\user_acronus\calculocnpj\obj\Debug\netcoreapp2.0\calculocnpj.AssemblyInfoInputs.cache
+C:\Users\user_acronus\calculocnpj\obj\Debug\netcoreapp2.0\calculocnpj.AssemblyInfo.cs
+C:\Users\user_acronus\calculocnpj\obj\Debug\netcoreapp2.0\calculocnpj.dll
+C:\Users\user_acronus\calculocnpj\obj\Debug\netcoreapp2.0\calculocnpj.pdb
